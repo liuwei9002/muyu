@@ -1,5 +1,4 @@
 <?php
-echo 233;
 // 定义环境变量
 define("ENVIRONMENT", "devlopment");
 // define("ENVIRONMENT", "testing");
